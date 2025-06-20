@@ -13,7 +13,7 @@ This project is a deep learning-based application designed to detect deepfake vi
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 - Python 3
 - TensorFlow / Keras
 - OpenCV
@@ -23,12 +23,12 @@ This project is a deep learning-based application designed to detect deepfake vi
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 - [FaceForensics++](https://github.com/ondyari/FaceForensics)
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repository**
 ```bash
@@ -53,7 +53,7 @@ python deepfake_detection_proj.py
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 ```
 ├── deepfake_detection_proj.py      # Main GUI + logic script
 ├── svm_classifier.pkl              # Pre-trained SVM model
