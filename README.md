@@ -1,10 +1,10 @@
-# 🤖 Deepfake Detection System
+# Deepfake Detection System
 
 This project is a deep learning-based application designed to detect deepfake videos by combining a Convolutional Neural Network (CNN) for feature extraction with an SVM classifier for classification. It features a simple GUI for uploading videos and returns whether the video is real or fake.
 
 ---
 
-## 📌 Features
+## Features
 - Real-time deepfake detection with video upload
 - Uses **MTCNN** for face detection and **Xception** for feature extraction
 - Classifies frames using a trained **SVM model**
@@ -13,7 +13,7 @@ This project is a deep learning-based application designed to detect deepfake vi
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 - Python 3
 - TensorFlow / Keras
 - OpenCV
@@ -62,7 +62,7 @@ python deepfake_detection_proj.py
 
 ---
 
-## 🔧 Requirements
+## Requirements
 List this inside `requirements.txt`:
 ```
 tensorflow
@@ -75,23 +75,20 @@ pillow
 
 ---
 
-## 📣 Future Improvements
+## Future Improvements
 - Add webcam support for live detection
 - Display detected faces in GUI
 - Add result logging and report generation
 
 ---
 
-## 📬 Contact
+## Contact
 **Shashank V**  
 [LinkedIn](https://linkedin.com/in/shashankv21) | [GitHub](https://github.com/Shashank-V21) | shashank.v0084@gmail.com
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the MIT License.
 
----
-
-## 🔖 GitHub Description (for your repo):
-> Deepfake detection system using MTCNN + Xception + SVM with a Tkinter GUI. Upload videos and get real/fake classification results in real-time.
+--
